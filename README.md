@@ -245,12 +245,6 @@ We welcome contributions to AgrilConnect! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-For support and inquiries:
-- **Email**: contact@agrilconnect.com
-- **Phone**: +91 1234567890
-- **WhatsApp**: [Quick Support](https://wa.me/1234567890)
 
 ## 🙏 Acknowledgments
 
